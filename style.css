@@ -1,0 +1,56 @@
+html {
+	margin: 0px;
+	padding: 50px;
+	}
+
+body { 
+	font: 100% "Times New Roman", sans-serif;
+	line-height: 1.88889;
+	color: black; 
+	margin: 0; 
+	padding: 0;
+	background-image: url("white.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+
+h3 {
+	font: Bold normal 1.4em "Times New Roman", sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 1px; 
+	color: darkseagreen;
+	}
+h1 { 
+	font: Bold normal 3.7em "Times New Roman", sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: darkgreen;
+	}
+h2 { 
+	font-family: "Times New Roman";
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: darkseagreen;
+	}
+a:link { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: palevioletred;
+	}
+a:visited { 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: darkred;
+	}
+a:hover, a:focus, a:active { 
+	text-decoration: underline; 
+	color: purple;
+	}
+
+.footer {
+	Margin-bottom: 0;
+	Width: 100%;
+	Opacity: 75%;
+	text-align: left;
+
+}
